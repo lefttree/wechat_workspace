@@ -1,0 +1,5 @@
+<view>
+    <text catchtap="click" class="{{color}}">
+        点我! {{color}}
+    </text>
+</view>
